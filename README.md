@@ -1,0 +1,1 @@
+# cignalsio-Trade-Setup
