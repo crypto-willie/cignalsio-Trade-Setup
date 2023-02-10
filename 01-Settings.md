@@ -1,7 +1,7 @@
 ##### Settings:
 
-MAIN Screen - Buy Sell Spilt Stacks Imbalance
+[The Edge Imbalance](https://cignals.substack.com/p/the-edge-imbalance-a-new-order-flow)
 
-Delta - 
+Delta -
 
 Total Volume -
