@@ -1,6 +1,7 @@
 ##### Overview:
 
 [The Edge Imbalance](https://cignals.substack.com/p/the-edge-imbalance-a-new-order-flow)
+![Edge-Imbalancel](media/Edge-Imbalance.png)
 
 Delta -
 ![Delta-1l](media/Delta-1.png)
@@ -18,4 +19,12 @@ Edge Imbalance (EI) - Yellow Line
 
 Balanced Target (BT)
 - Projected level that completes a symmetrical balanced 'D' shaped bell curve (profile).
+
 ![Balance-Target](media/Balance-Target.png)
+
+Buy-Side-Imbalance
+![Buy-Side-Imbalance](media/Buy-Side-Imbalance.png)
+
+Sell-Side-Imbalance
+
+![Sell-Side-Imbalance](media/Sell-Side-Imbalance.png)
