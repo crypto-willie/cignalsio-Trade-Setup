@@ -1,6 +1,7 @@
 ##### Overview:
+All text copy and pasted from [cingnals.io](https://cingnals.io) web-site.  
 
-[The Edge Imbalance](https://cignals.substack.com/p/the-edge-imbalance-a-new-order-flow)
+The Edge Imbalance
 
 ![Edge-Imbalancel](media/Edge-Imbalance.png)
 
