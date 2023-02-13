@@ -28,6 +28,7 @@ Balanced Target (BT)
 ![Balance-Target](media/Balance-Target.png)
 
 Buy-Side-Imbalance
+
 ![Buy-Side-Imbalance](media/Buy-Side-Imbalance.png)
 
 Sell-Side-Imbalance
