@@ -15,6 +15,6 @@ Passive market participants are traders who enter their trade with a limit (pend
 ##### Active Market Participants
 - Active market participants are traders who enter their trades with market orders. If you press a market Buy or Sell, then you are an active market participant. Your position will get filled immediately.
 - No matter where the price currently is, no matter where exactly the trade is going to be filled, aggressive participants just want in. Now! Even if this means risking a slippage (the trade won’t open precisely at the price where they pressed the Buy/Sell).
-- A market order is useful in situations where there is no time to wait to get your whole position filled exactly at the price you wanted. For example, this could be when there is a quick price movement that you don’t want to miss. 
+- A market order is useful in situations where there is no time to wait to get your whole position filled exactly at the price you wanted. For example, this could be when there is a quick price movement that you don’t want to miss.
   - If you open a LONG position with a market order, it will appear on the ASK side of the footprint (on the right).
- - If you open a SHORT position with a market order, it will appear on the BID side of the footprint (on the left).
+  - If you open a SHORT position with a market order, it will appear on the BID side of the footprint (on the left).
