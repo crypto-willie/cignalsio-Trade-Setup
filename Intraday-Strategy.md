@@ -5,7 +5,7 @@ Before I discovered [cignals.io](https://cignals.io), I use combination confluen
 I'm new to order flow and still learning to read tape.  I've read few books recently; I somewhat understand it. I can't help you here.  I've highlighted below what you need to research. [cignals.io](https://cignals.io) can, it finds Imbalances for you, which is big part of tape reading.  Other thing I love about [cignals.io](https://cignals.io) is confirmation on ["Auction Theory"](https://www.youtube.com/watch?v=b62FlkIvE9E&ab_channel=Cignals). Sometimes on traditional chart I'm not 100% if it fails or not!  Absorption where you will notice blocks on price chart where price has not move with relatively high volume.   Initiative will be market turn coming out absorption.  This is aggression, look for longs in ask column.  Aggression in bid column you look for shorts.
 Short version of my knowledge.
 
-Good example of Absorption turning into Aggression!
+Good example of Absorption turning into Aggression!  Up thrust from Volume Spread my indication to find entry.  I set market trigger at top of spread.  S/L will be at bottom of wick.  Or just below.
 
 ![Absorption](/media/Absorbution.png)
 
