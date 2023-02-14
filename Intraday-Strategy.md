@@ -1,11 +1,13 @@
 ##### Intraday Scalp Strategy with [cignals.io](https://cignals.io)
 ******************************************************************
-Before I discovered [cignals.io](https://cignals.io), I use combination confluences to build my strategy.  I use Price Action, VSA, VPA, Volume Profile, & I understand theory behind SMC concept.  I've read few books on Wycoff theory.  Using combination of these is how I was tradeing up tell last week.  
+Before I discovered [cignals.io](https://cignals.io), I use combination confluences to build my strategy.  I use Price Action, VSA, VPA, Volume Profile, & I understand theory behind SMC concept.  I've read few books on Wycoff theory.  Using combination of these is how I was trading up tell last week.  
 
-I'm new to order flow and still learning to read tape.  I've read few books recently; I somewhat understand it. I can't help you here.  I've highlighted below what you need to research. [cignals.io](https://cignals.io) can, it finds Imbalances for you, which is big part of tape reading.  Other thing I love about [cignals.io](https://cignals.io) is confirmation on ["Auction Theory"](https://www.youtube.com/watch?v=b62FlkIvE9E&ab_channel=Cignals). Sometimes on traditional chart I'm not 100% if it fails or not!  Absorbution where you will notice blocks on price chart where price has not move with relatively high volume.   Initiative will be market turn coming out absorbution.  This is aggression, look for longs in ask column.  Aggression in bid column you look for shorts.
+I'm new to order flow and still learning to read tape.  I've read few books recently; I somewhat understand it. I can't help you here.  I've highlighted below what you need to research. [cignals.io](https://cignals.io) can, it finds Imbalances for you, which is big part of tape reading.  Other thing I love about [cignals.io](https://cignals.io) is confirmation on ["Auction Theory"](https://www.youtube.com/watch?v=b62FlkIvE9E&ab_channel=Cignals). Sometimes on traditional chart I'm not 100% if it fails or not!  Absorption where you will notice blocks on price chart where price has not move with relatively high volume.   Initiative will be market turn coming out absorption.  This is aggression, look for longs in ask column.  Aggression in bid column you look for shorts.
 Short version of my knowledge.
 
-![Absorbution](/media/Absorbution.png)
+Good example of Absorption turning into Aggression!
+
+![Absorption](/media/Absorbution.png)
 
 I trade off 30m, 15m, & 3m chart.
 
@@ -19,7 +21,7 @@ Here how I use [cignals.io](https://cignals.io) to my workflow.
 
 ![Strategy-1D](/media/Strategy-1D.png)
 
-  - Picture of recent BTC chart, Multiple imabalance group together is dream come true in my book!  You see something like this on any time frame!  It's area you defiantly pay attention to.  
+  - Picture of recent BTC chart, Multiple imbalance group together is dream come true in my book!  You see something like this on any time frame!  It's area you defiantly pay attention to.  
 
 2) Open 30m & 15m on [cignals.io](https://cignals.io), I change price Interval x4 of current Price Interval.  I like to see bigger picture of what's going on.
   - I usually use PoC, VaL, VaH from 30m.  Use 15m signals for key areas to pay attention too.
@@ -54,7 +56,7 @@ Remember, I'm Crypto Scalper, I hardly ever swing trade due to market conditions
 
 Strategy concept pretty easy.  Google your friend and do little research or find book's.  Trading not Rocket Science, it's Art! Figure out what's best for you.  You should always be learning.  Always test new strategy!
 
-Usefull link I found long time ago.  Guy highlights pretty much all confluences I listed above.  This will give you better idea of whats going on if your completely lost.
+Useful link I found long time ago.  Guy highlights pretty much all confluences I listed above.  This will give you better idea of what's going on if your completely lost.
 
 [dot net tutorials](https://dotnettutorials.net/course/trading-with-smart-money/)
 
