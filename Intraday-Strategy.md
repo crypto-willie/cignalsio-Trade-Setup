@@ -5,6 +5,8 @@ Before I discovered [cignals.io](https://cignals.io), I use combination confluen
 I'm new to order flow and still learning to read tape.  I've read few books recently; I somewhat understand it. I can't help you here.  I've highlighted below what you need to research. [cignals.io](https://cignals.io) can, it finds Imbalances for you, which is big part of tape reading.  Other thing I love about [cignals.io](https://cignals.io) is confirmation on ["Auction Theory"](https://www.youtube.com/watch?v=b62FlkIvE9E&ab_channel=Cignals). Sometimes on traditional chart I'm not 100% if it fails or not!  Absorbution where you will notice blocks on price chart where price has not move with relatively high volume.   Initiative will be market turn coming out absorbution.  This is aggression, look for longs in ask column.  Aggression in bid column you look for shorts.
 Short version of my knowledge.
 
+![Absorbution](/media/Absorbution.png)
+
 I trade off 30m, 15m, & 3m chart.
 
 Check there [youtube](https://www.youtube.com/@CignalsIO) channel out!  Great information there!
@@ -50,7 +52,7 @@ Here how I use [cignals.io](https://cignals.io) to my workflow.
 
 Remember, I'm Crypto Scalper, I hardly ever swing trade due to market conditions right now.  Look for long entry at bottom Val and short at VaH in range. Why you Range and Intraday trade until market back trending.  
 
-Strategy concept pretty easy.  Google your friend and do little research or find book's.  Trading not Rocket Science, it's Art! Figure out what's best for you.  You should always be learning.  Always test new strategy! 
+Strategy concept pretty easy.  Google your friend and do little research or find book's.  Trading not Rocket Science, it's Art! Figure out what's best for you.  You should always be learning.  Always test new strategy!
 
 Usefull link I found long time ago.  Guy highlights pretty much all confluences I listed above.  This will give you better idea of whats going on if your completely lost.
 
