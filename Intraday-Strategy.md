@@ -52,11 +52,11 @@ Here how I use [cignals.io](https://cignals.io) to my workflow.
 
 ![4-Strategy-Main](/media/4-Strategy-Main.png)
 
-Remember, I'm Crypto Scalper, I hardly ever swing trade due to market conditions right now.  Look for long entry at bottom Val and short at VaH in range. Why you Range and Intraday trade until market back trending.  
+Remember, I'm Crypto Scalper, I hardly ever swing trade due to market conditions right now.  Look for long entry at bottom Val and short at VaH in range. Why you use a Range and Intraday trade until market back trending.  
 
 Strategy concept pretty easy.  Google your friend and do little research or find book's.  Trading not Rocket Science, it's Art! Figure out what's best for you.  You should always be learning.  Always test new strategy!
 
-Useful link I found long time ago.  Guy highlights pretty much all confluences I listed above.  This will give you better idea of what's going on if your completely lost.
+Useful link I found long time ago.  Author highlights pretty much all confluences I listed above.  This will give you better idea of what's going on if your completely lost.
 
 [dot net tutorials](https://dotnettutorials.net/course/trading-with-smart-money/)
 
