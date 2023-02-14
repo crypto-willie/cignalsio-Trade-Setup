@@ -1,9 +1,11 @@
 ##### Overview:
 All text copy and pasted from [cingnals.io](https://cingnals.io) web-site.  
 
+I had to make cheat sheet when I was watching video's from there [youtube](https://www.youtube.com/@CignalsIO) Channel.
+
 The Edge Imbalance
 
-![Edge-Imbalancel](media/Edge-Imbalance.png)
+![Edge-Imbalance](media/Edge-Imbalance.png)
 
 Delta -
 
