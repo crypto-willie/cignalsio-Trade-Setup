@@ -33,15 +33,15 @@ Here how I use [cignals.io](https://cignals.io) to my workflow.
 3) Alerts
   - Use Trading View to set alerts for key areas of Interest.
   - Also use Order Blocks from SMC from traditional charts to base where to set alerts.
-  - Look for confluence on 15m [cignals.io](https://cignals.io) chart. Really nice when [cignals.io](https://cignals.io) signal in Order Block!
   - Yes, Order Block not Order Book!  I can see them on naked chart without drawing them.  Here picture of possible short setup I'm considering. Notice [cignals.io](https://cignals.io) signal ;-)
+  - Look for confluence on 15m [cignals.io](https://cignals.io) chart. Really nice when [cignals.io](https://cignals.io) signal in Order Block!
   - Use my techniques from part 1 on confluence if I'm going to enter or not after alert goes off.
 
 ![3-Stragey-OB](/media/3-Stragey-OB.png)
 
 4) Entry
 - [cignals.io](https://cignals.io) lowest time frames are 5m & 1m.  I prefer 3m.  I use 5m.  1m moves to fast for me.  Out of conner of my eye I look at 3m chart for VSA & VPA reversal candles.  
-- First question I ask myself is it consolidating or distributing!  That comes with understanding market structure.  You will see same pattern whether it's 3-minute chart or Daily chart.  Second is top of Range or Bottom of Range.
+- First question I ask myself is it consolidating, then accumulating or distributing!  That comes with understanding market structure.  You will see same pattern whether it's 3-minute chart or Daily chart.  Second is top of Range or Bottom of Range.
 - Look for confluence for reversal, VaL, VaH, Volume Spread, Order Book, Imbalance, nPoC etc etc etc.
 - I like setting trigger market order.  Let trade come to me.
 - I prefer to wait for dead cat bounce.  See if there BoS on 3m.  Look for 2 candle close above or below depending on long or short.  Place trigger at Top or bottom of spread.  S/L at bottom of previous 15m candle close.  I have good R/R and I'm not knife catching.
