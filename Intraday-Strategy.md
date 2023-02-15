@@ -33,7 +33,7 @@ Here how I use [cignals.io](https://cignals.io) to my workflow.
 3) Alerts
   - Use Trading View to set alerts for key areas of Interest.
   - Also use Order Blocks from SMC from traditional charts to base where to set alerts.
-  - Yes, Order Block not Order Book!  I can see them on naked chart without drawing them.  Here picture of possible short setup I'm considering. Notice [cignals.io](https://cignals.io) signal ;-)
+  - Yes, Order Block not Order Book!  I can see them on naked chart without drawing them.  Im already in long, will cut it at OB. Possibly look for short setup at top of range. Notice [cignals.io](https://cignals.io) signal ;-)
   - Look for confluence on 15m [cignals.io](https://cignals.io) chart. Really nice when [cignals.io](https://cignals.io) signal in Order Block!
   - Use my techniques from part 1 on confluence if I'm going to enter or not after alert goes off.
 
